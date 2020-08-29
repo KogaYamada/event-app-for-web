@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`button test button color 1`] = `
+<button
+  className="sc-AxjAm efnSTE"
+  color="#FF0000"
+  onClick={[Function]}
+>
+  Click!
+</button>
+`;
+
+exports[`button test button snapshot 1`] = `
+<button
+  className="sc-AxjAm AOlyX"
+  onClick={[Function]}
+>
+  Click!
+</button>
+`;
